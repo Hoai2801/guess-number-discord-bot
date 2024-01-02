@@ -12,7 +12,7 @@ public class GuessNumberBot {
      */
     public static void main(String[] args) {
         // Insert your bot's token here
-        String token = "MTE5MTM1MDU0OTM4MDA3OTY0Nw.GnKFaV.dCciXcPBCYGgeIqHkfxgCd-_L8rc8thiFGSFt4";
+        String token = "Your-bot-token";
 
         // Create a new DiscordApi instance and log in with the bot's token
         DiscordApi api = new DiscordApiBuilder()
