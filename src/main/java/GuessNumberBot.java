@@ -4,7 +4,7 @@ import org.javacord.api.entity.intent.Intent;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
-public class HomeworkEater {
+public class GuessNumberBot {
 
     /**
      * This method initializes and runs a Discord bot that generates a random number and allows users to guess it.
@@ -12,7 +12,7 @@ public class HomeworkEater {
      */
     public static void main(String[] args) {
         // Insert your bot's token here
-        String token = "Your bot token here";
+        String token = "MTE5MTM1MDU0OTM4MDA3OTY0Nw.GnKFaV.dCciXcPBCYGgeIqHkfxgCd-_L8rc8thiFGSFt4";
 
         // Create a new DiscordApi instance and log in with the bot's token
         DiscordApi api = new DiscordApiBuilder()
